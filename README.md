@@ -14,7 +14,7 @@
 
 ``git --version``
 
-![20201016_163410 1](gambar 1.png)
+![20201016_163410 1](gambar1.png)
 
 
 ### Menambahkan Global Config
@@ -29,7 +29,7 @@
 
 `$ git config --global user.email “nama_user”`
 
-![Screenshot (60)](gambar 2.png))
+![Screenshot (60)](gambar2.png))
 
 
 ### Perintah Dasar Git
@@ -77,7 +77,7 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (50)](/gambar 3.png)
+![Screenshot (50)](/gambar3.png)
 
 
 ### `Commit` (Menyimpan perubahan ke database)
@@ -86,7 +86,7 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](gambar 3.png)
+![20201016_163326 1](gambar3.png)
 
 
 ### Membuat repository server
@@ -96,7 +96,7 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (62)](gambar 4.png)
+![Screenshot (62)](gambar4.png)
 
 
 ### Membuat repository server
@@ -118,7 +118,7 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (50)](gambar 4.png)
+![Screenshot (50)](gambar4.png)
 
 
 ### Melihat hasilnya pada server repository
@@ -126,7 +126,7 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (61)](gambar 5.png)
+![Screenshot (61)](gambar5.png)
 
 ### Clone Repository
 
