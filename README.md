@@ -14,7 +14,7 @@
 
 ``git --version``
 
-![20201016_163410 1](gambar/gambar1.png)
+![20201016_163410 1](gambar1.png)
 
 
 ### Menambahkan Global Config
@@ -29,7 +29,7 @@
 
 `$ git config --global user.email “nama_user”`
 
-![Screenshot (60)](gambar/gambar2.png))
+![Screenshot (60)](gambar2.png))
 
 
 ### Perintah Dasar Git
@@ -77,7 +77,7 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (50)](gambar/gambar3.png)
+![Screenshot (50)](/gambar3.png)
 
 
 ### `Commit` (Menyimpan perubahan ke database)
@@ -96,7 +96,7 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (62)](gambar/gambar4.png)
+![Screenshot (62)](gambar4.png)
 
 
 ### Membuat repository server
@@ -133,7 +133,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (59)](gambar/gambar5.png)
+![Screenshot (59)](gambar5.png)
 
 ### Kegunaan file README.md
 
