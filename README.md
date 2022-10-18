@@ -86,7 +86,7 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](gambar/gambar3.png)
+![20201016_163326 1](gambar3.png)
 
 
 ### Membuat repository server
