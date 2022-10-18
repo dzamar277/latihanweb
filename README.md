@@ -118,7 +118,7 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (50)](gambar/gambar4.png)
+![Screenshot (50)](gambar4.png)
 
 
 ### Melihat hasilnya pada server repository
@@ -126,7 +126,7 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (61)](gambar/gambar5.png)
+![Screenshot (61)](gambar5.png)
 
 ### Clone Repository
 
