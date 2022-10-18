@@ -86,7 +86,7 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](gambar4.png)
+![20201016_163326 1](gambar3.png)
 
 
 ### Membuat repository server
@@ -96,7 +96,7 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (62)](gambar4.png)
+![Screenshot (62)](gambar%4.png)
 
 
 ### Membuat repository server
@@ -118,7 +118,7 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (50)](gambar4.png)
+![Screenshot (50)](gambar%4.png)
 
 
 ### Melihat hasilnya pada server repository
@@ -126,14 +126,14 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (61)](gambar5.png)
+![Screenshot (61)](gambar%5.png)
 
 ### Clone Repository
 
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (59)](gambar5.png)
+![Screenshot (59)](gambar%5.png)
 
 ### Kegunaan file README.md
 
